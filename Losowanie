@@ -8,6 +8,8 @@ import java.util.Set;
 import static java.lang.Thread.sleep;
 
 
+public class App {
+
     public static void main(String[] args) {
 
         int liczba1, liczba2, liczba3, liczba4, liczba5, liczba6;
